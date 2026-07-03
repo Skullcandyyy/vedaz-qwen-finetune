@@ -1,0 +1,15 @@
+# Model weights (too large for GitHub — uploaded to HuggingFace)
+qwen-vedaz-lora/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data
+data/
+*.jsonl
+
+# Jupyter
+.ipynb_checkpoints/
