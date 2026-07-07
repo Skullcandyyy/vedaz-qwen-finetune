@@ -15,9 +15,9 @@ Fine-tuned **Qwen2.5-0.5B-Instruct** on Vedaz's AI Vedic astrology chat data.
 
 ## Fine-tuned Model Weights
 
-The trained LoRA adapter is uploaded to Hugging Face Hub:
+The trained LoRA adapter is live on Hugging Face Hub:
 
-👉 **[Model on HuggingFace]** *(link to be added after HF upload)*
+👉 **[rohit1425/vedaz-qwen2.5-0.5B-finetune](https://huggingface.co/rohit1425/vedaz-qwen2.5-0.5B-finetune)**
 
 ## Dataset
 
